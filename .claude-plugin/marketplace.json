@@ -1,0 +1,15 @@
+{
+  "name": "fastapi-best-practices-plugin",
+  "description": "FastAPI best-practice skill for Claude Code",
+  "owner": {
+    "name": "dkmqflx",
+    "email": "dkmqflx@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "fastapi-best-practices",
+      "source": "./plugins/fastapi-best-practices",
+      "description": "FastAPI best practices — 41 rules across 13 categories (security, validation, dependencies, async, testing, and more), grounded in the official FastAPI docs, with incorrect/correct examples."
+    }
+  ]
+}

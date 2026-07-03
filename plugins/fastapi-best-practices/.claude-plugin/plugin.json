@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-best-practices",
+  "description": "FastAPI best practices — 41 rules across 13 categories (security, validation, dependencies, async, testing, and more), grounded in the official FastAPI docs, with incorrect/correct examples.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dkmqflx",
+    "email": "dkmqflx@gmail.com"
+  },
+  "homepage": "https://github.com/dkmqflx/fastapi-best-practices-plugin",
+  "license": "MIT"
+}
