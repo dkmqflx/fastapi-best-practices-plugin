@@ -1,5 +1,7 @@
 # fastapi-best-practices-plugin
 
+[![Release](https://img.shields.io/badge/release-v0.1.0-blue)](https://github.com/dkmqflx/fastapi-best-practices-plugin/releases/tag/fastapi-best-practices--v0.1.0)
+
 3 FastAPI best-practice skills (41 rules total), grounded in the official [FastAPI docs](https://fastapi.tiangolo.com/). Security and testing are split into their own skills since they tend to live in dedicated files (auth modules, test suites) rather than alongside routing/model code. Each rule pairs an incorrect example with the official correct pattern and links the relevant docs page.
 
 ## Supported Coding Agents
