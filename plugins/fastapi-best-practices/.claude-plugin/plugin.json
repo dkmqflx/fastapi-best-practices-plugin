@@ -1,7 +1,7 @@
 {
   "name": "fastapi-best-practices",
-  "description": "FastAPI best practices — 41 rules across 13 categories (security, validation, dependencies, async, testing, and more), grounded in the official FastAPI docs, with incorrect/correct examples.",
-  "version": "1.0.0",
+  "description": "FastAPI best practices — 3 skills, 41 rules total, grounded in the official FastAPI docs, with incorrect/correct examples. Core skill (33 rules: models, params, structure, DI, errors, async, streaming, background/config, lifespan, middleware, docs) plus dedicated fastapi-security (5 rules) and fastapi-testing (3 rules) skills.",
+  "version": "2.0.0",
   "author": {
     "name": "dkmqflx",
     "email": "dkmqflx@gmail.com"
